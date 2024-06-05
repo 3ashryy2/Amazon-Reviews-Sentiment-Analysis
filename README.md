@@ -59,5 +59,5 @@ The results are saved and analyzed to determine the best hyperparameters for eac
 
 2. Download the dataset `amazon_reviews.csv` and place it in the project directory.
 
-3. Open the jython notebook `amazon_reviews.ipynb` and run all cells.
+3. Open the jython notebook `amazon_analysis.ipynb` and run all cells.
 
